@@ -1,0 +1,5 @@
+Host github
+User git
+Hostname github.com
+Port 22
+IdentityFile /Users/ohtsukayuta/.ssh/id_rsa
